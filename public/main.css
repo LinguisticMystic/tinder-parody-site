@@ -1,0 +1,9 @@
+@import url('https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css');
+html {
+    height: 100%;
+    background-image: linear-gradient(#31DCBD, #FF69B4);
+}
+
+input {
+    padding-left: 10px;
+}
